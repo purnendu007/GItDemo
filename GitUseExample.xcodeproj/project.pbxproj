@@ -414,6 +414,7 @@
 				18F5DE7119F00A4000FAA706 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18F5DE7219F00A4000FAA706 /* Build configuration list for PBXNativeTarget "GitUseExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				18F5DE7419F00A4000FAA706 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
