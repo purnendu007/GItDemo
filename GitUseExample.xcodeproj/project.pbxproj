@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		186A16E419F14FAB0011767E /* TestGit.m in Sources */ = {isa = PBXBuildFile; fileRef = 186A16E319F14FAB0011767E /* TestGit.m */; };
 		18F5DE5219F00A4000FAA706 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F5DE5119F00A4000FAA706 /* main.m */; };
 		18F5DE5519F00A4000FAA706 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F5DE5419F00A4000FAA706 /* AppDelegate.m */; };
 		18F5DE5819F00A4000FAA706 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F5DE5719F00A4000FAA706 /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		186A16E219F14FAB0011767E /* TestGit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestGit.h; sourceTree = "<group>"; };
+		186A16E319F14FAB0011767E /* TestGit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestGit.m; sourceTree = "<group>"; };
 		18F5DE4C19F00A4000FAA706 /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F5DE5019F00A4000FAA706 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18F5DE5119F00A4000FAA706 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +88,8 @@
 				18F5DE5419F00A4000FAA706 /* AppDelegate.m */,
 				18F5DE5619F00A4000FAA706 /* ViewController.h */,
 				18F5DE5719F00A4000FAA706 /* ViewController.m */,
+				186A16E219F14FAB0011767E /* TestGit.h */,
+				186A16E319F14FAB0011767E /* TestGit.m */,
 				18F5DE5919F00A4000FAA706 /* Main.storyboard */,
 				18F5DE5C19F00A4000FAA706 /* Images.xcassets */,
 				18F5DE5E19F00A4000FAA706 /* LaunchScreen.xib */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				186A16E419F14FAB0011767E /* TestGit.m in Sources */,
 				18F5DE5819F00A4000FAA706 /* ViewController.m in Sources */,
 				18F5DE5519F00A4000FAA706 /* AppDelegate.m in Sources */,
 				18F5DE5219F00A4000FAA706 /* main.m in Sources */,
