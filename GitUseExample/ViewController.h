@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)Click:(id)sender;
+- (IBAction)btnGit:(id)sender;
 
 @end
 
