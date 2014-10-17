@@ -14,6 +14,7 @@
 @property (nonatomic, strong) TestGit *testClass;
 
 
+-(void)sayHello;
 
 @end
 
@@ -41,4 +42,9 @@
     [[[UIAlertView alloc]initWithTitle:@"Hello" message:@"TO GIT EXAMPLE" delegate:self cancelButtonTitle:@"GO" otherButtonTitles:nil, nil]show];
     
 }
+
+-(void)sayHello{
+    NSLog("Hello");
+}
+
 @end
