@@ -16,16 +16,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="P4U-UW-UR3">
-                                <rect key="frame" x="110" y="442" width="167" height="30"/>
-                                <color key="backgroundColor" red="0.24225577955928035" green="0.89917071931626458" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="Button">
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                                <connections>
-                                    <action selector="Click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GNc-1w-yVI"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zba-Au-QmM">
                                 <rect key="frame" x="98" y="269" width="99" height="30"/>
                                 <color key="backgroundColor" red="1" green="0.3575251235372271" blue="0.20349412267982869" alpha="1" colorSpace="calibratedRGB"/>
